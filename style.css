@@ -1,0 +1,76 @@
+.menu{
+    size: auto 50px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(34, 52, 95);
+    position: fixed
+}
+
+a:hover{
+    background-color: rgb(34, 52, 95);
+    color: white;
+    padding: 4px;
+    position: absolute;
+}
+
+ul{
+    padding-left: 0;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    text-align: center;
+    padding: 0px 40px 0px 40px;
+    font-family: 'Oswald', 'Open Sans', sans-serif;
+}
+
+body{
+    text-align: center;
+    align-content: center;
+    padding: 30px;
+    font-size: 11pt;
+}
+
+.profile-image{
+    size-adjust: 150px, 150px;
+}
+
+.name{
+    font-family: 'Oswald', 'Open Sans', sans-serif;
+}
+
+.bio{
+    padding: 20px 300px 20px 300px;
+    text-align: justify;
+    color: grey;
+    font-family: "Oswald Extra Light 400", sans-serif;
+}
+
+.input{
+    text-align: center;
+    padding-top: 20px;
+}
+
+label {
+    padding: 5px 0;
+    font-family: 'Oswald', 'Open Sans', sans-serif;
+}
+    
+    
+input,label {
+    margin: 5px 0;
+    font-family: 'Oswald', 'Open Sans', sans-serif;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+    padding-top: 30px;
+    font-size: 8pt;
+    font-family: 'Oswald', 'Open Sans', sans-serif;
+}
+
